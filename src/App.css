@@ -1,0 +1,26 @@
+.meme-container {
+  position: relative;
+
+}
+
+img {
+  width: 80%;
+}
+
+.meme-text-top {
+  font-family: Impact;
+  position: absolute;
+  top: 8px;
+  right: 10%;
+  left: 10%;
+  font-size: 2em;
+}
+
+.meme-text-bottom {
+  font-family: Impact;
+  position: absolute;
+  top: 90%;
+  right: 10%;
+  left: 10%;
+  font-size: 2em;
+}
